@@ -1,0 +1,12 @@
+62fe11789933751e3bb2c4665d2babaf *DESCRIPTION
+94779b8774bbef516dcfc08cfe1a35e6 *NAMESPACE
+619e4421c65a42e40f84a0fd07271619 *R/MCID.R
+b61a4a2bed734bf625a959fc0158c96e *R/MRQoL-internal.R
+7be3fd2aaa7918b3e92fc32bcb1a9c2c *R/RS.R
+40e9fd0621d45c8454cf65b610c2d82b *R/stat_MCID.R
+5bfd3a01e88bfd610c38fdb793f599f1 *data/dataghs.rda
+7fd15db634918b93b1f759b9640b7931 *man/MCID.Rd
+3b8b8ee8bf18a83148ea5c494fd164cd *man/MRQoL-package.Rd
+eb131f19529597a3cf6e976a3716e4fc *man/RS.Rd
+ebd9d72ee7c75f298d7668e50fdd2e72 *man/dataghs.Rd
+0f2aa1f4e5b97350aa8ecc988de135ee *man/stat_MCID.Rd
