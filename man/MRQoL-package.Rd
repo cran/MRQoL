@@ -4,7 +4,7 @@
 \title{Minimal Clinically Important Difference and Response Shift Effect for Health-Related Quality of Life
 }
 
-\description{We can calculate directly used this package the Minimal Clinically Important Difference by applying the Anchor-based method and the Response shift effect by applying the Then-Test method.
+\description{Using this package we can calculate the Minimal Clinically Important Difference by applying the Anchor-based method and the Response shift effect by applying the Then-Test method.
 }
 
 \details{
